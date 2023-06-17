@@ -36,9 +36,3 @@ struct TextFieldView: View {
         .padding(20)
     }
 }
-
-//struct TextFieldView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        TextFieldView()
-//    }
-//}

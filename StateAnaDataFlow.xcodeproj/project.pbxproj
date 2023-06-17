@@ -15,7 +15,6 @@
 		A88811622A3A3F0100A4487D /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88811612A3A3F0100A4487D /* LoginView.swift */; };
 		A88811642A3A3FE800A4487D /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88811632A3A3FE800A4487D /* UserSettings.swift */; };
 		A88811662A3A411000A4487D /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88811652A3A411000A4487D /* RootView.swift */; };
-		E05DB0BA2A3DB3B7006DDBB8 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E05DB0B92A3DB3B7006DDBB8 /* User.swift */; };
 		E0D39C5B2A3AF5EA006DF333 /* LogoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0D39C5A2A3AF5EA006DF333 /* LogoutView.swift */; };
 		E0D39C5D2A3AFF61006DF333 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0D39C5C2A3AFF61006DF333 /* TextFieldView.swift */; };
 /* End PBXBuildFile section */
@@ -30,7 +29,6 @@
 		A88811612A3A3F0100A4487D /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		A88811632A3A3FE800A4487D /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
 		A88811652A3A411000A4487D /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
-		E05DB0B92A3DB3B7006DDBB8 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		E0D39C5A2A3AF5EA006DF333 /* LogoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoutView.swift; sourceTree = "<group>"; };
 		E0D39C5C2A3AFF61006DF333 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,7 +73,6 @@
 				A88811552A3A1FFD00A4487D /* Assets.xcassets */,
 				A88811572A3A1FFD00A4487D /* Preview Content */,
 				E0D39C5C2A3AFF61006DF333 /* TextFieldView.swift */,
-				E05DB0B92A3DB3B7006DDBB8 /* User.swift */,
 			);
 			path = StateAnaDataFlow;
 			sourceTree = "<group>";
@@ -163,7 +160,6 @@
 				E0D39C5D2A3AFF61006DF333 /* TextFieldView.swift in Sources */,
 				A88811662A3A411000A4487D /* RootView.swift in Sources */,
 				A88811622A3A3F0100A4487D /* LoginView.swift in Sources */,
-				E05DB0BA2A3DB3B7006DDBB8 /* User.swift in Sources */,
 				A88811642A3A3FE800A4487D /* UserSettings.swift in Sources */,
 				E0D39C5B2A3AF5EA006DF333 /* LogoutView.swift in Sources */,
 				A88811522A3A1FFC00A4487D /* StateAnaDataFlowApp.swift in Sources */,
